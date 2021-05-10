@@ -22,7 +22,7 @@ const Header = () => {
       </div>
       <Image
         className="object-contain"
-        src="/../public/hulu-white.png"
+        src="/hulu-white.png"
         alt="hulu-logo"
         width={200}
         height={100}
